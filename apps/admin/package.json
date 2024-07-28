@@ -7,7 +7,7 @@
     "build": "cross-env BASE_URL=https://app.muil.io NODE_ENV=production webpack"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.28.0",
     "dayjs": "^1.9.4",
     "final-form": "^4.20.1",
     "final-form-calculate": "^1.3.2",
